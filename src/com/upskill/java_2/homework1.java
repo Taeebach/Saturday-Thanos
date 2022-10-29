@@ -18,7 +18,7 @@ public class homework1 {
 		int P2=5;
 		int P3= 7;
 		
-		System.out.println(F1+"-"+P1+","+F2+"-"+P2+","+F3+"-"+ P3);
+		System.out.println(F1+"-"+P1+","+F2+"-"+P2+","+F3+"-"+ P3+"add");
 		
 	    
 		
